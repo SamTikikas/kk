@@ -1,0 +1,12 @@
+Flask==2.2.2
+numpy==1.26.2
+opencv-python==4.8.0.74
+scipy==1.11.4
+Flask-Cors==4.0.0
+tensorflow==2.15.0
+timm==0.9.12
+keras==2.11.0
+transformers==4.35.2
+supervision==0.17.1
+torch==2.1.1
+torchvision==0.16.1
